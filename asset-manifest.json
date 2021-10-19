@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tran-Van-Bong-95/todolist-react/static/css/main.e7cbdff4.chunk.css",
+    "main.js": "/Tran-Van-Bong-95/todolist-react/static/js/main.acd09de9.chunk.js",
+    "main.js.map": "/Tran-Van-Bong-95/todolist-react/static/js/main.acd09de9.chunk.js.map",
+    "runtime-main.js": "/Tran-Van-Bong-95/todolist-react/static/js/runtime-main.19fcac11.js",
+    "runtime-main.js.map": "/Tran-Van-Bong-95/todolist-react/static/js/runtime-main.19fcac11.js.map",
+    "static/js/2.69b08ccc.chunk.js": "/Tran-Van-Bong-95/todolist-react/static/js/2.69b08ccc.chunk.js",
+    "static/js/2.69b08ccc.chunk.js.map": "/Tran-Van-Bong-95/todolist-react/static/js/2.69b08ccc.chunk.js.map",
+    "index.html": "/Tran-Van-Bong-95/todolist-react/index.html",
+    "static/css/main.e7cbdff4.chunk.css.map": "/Tran-Van-Bong-95/todolist-react/static/css/main.e7cbdff4.chunk.css.map",
+    "static/js/2.69b08ccc.chunk.js.LICENSE.txt": "/Tran-Van-Bong-95/todolist-react/static/js/2.69b08ccc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Tran-Van-Bong-95/todolist-react/static/media/bg.80dd5058.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19fcac11.js",
+    "static/js/2.69b08ccc.chunk.js",
+    "static/css/main.e7cbdff4.chunk.css",
+    "static/js/main.acd09de9.chunk.js"
+  ]
+}
